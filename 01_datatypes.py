@@ -7,3 +7,10 @@ print('Robert Vari')
 # Specialis esetek
 print("I'ts my birthday")
 print('I\'ts my birthday')
+
+# integers: int, floats: float
+# int: 10, 100, -13, -300
+print(1977)
+
+# float: 3.14, -3.14
+print(3.14)
