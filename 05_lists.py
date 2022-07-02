@@ -17,4 +17,3 @@ print(len(shopping_list))
 
 # get the middle item in the shopping list
 print(shopping_list[ len(shopping_list) // 2 ])
-
